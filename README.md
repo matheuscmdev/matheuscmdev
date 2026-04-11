@@ -13,7 +13,7 @@ Fullstack Software Engineer from São Paulo, Brazil, focused on building robust 
 <img src="https://images.seeklogo.com/logo-png/33/2/angular-logo-png_seeklogo-331629.png" alt="C#" height="50">&nbsp;&nbsp;
 <img src="https://logosandtypes.com/wp-content/uploads/2020/07/microsoft-net.svg" alt="JavaScript" height="50">&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/960px-Bootstrap_logo.svg.png" alt="Python" height="50">&nbsp;&nbsp;
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9FZGcOId8e2tvMiw57wbiDRBO0luIyp2atw&s" alt="Python" height="50">&nbsp;&nbsp;
+<img src="https://www.rabbitmq.com/img/rabbitmq-logo.svg" alt="Python" height="50">&nbsp;&nbsp;
 
 
 ### ☁️ Infra, DevOps & DB
