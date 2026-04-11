@@ -5,22 +5,22 @@ Fullstack Software Engineer from São Paulo, Brazil, focused on building robust 
 ---
 
 ### ⚙️ Backend
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+<img src="https://images.icon-icons.com/2415/PNG/512/csharp_plain_logo_icon_146577.png" alt="C#" height="50">&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="50">&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png" alt="Python" height="50">&nbsp;&nbsp;
 
 ### 🛠️ Frameworks & Tools
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+<img src="https://images.seeklogo.com/logo-png/33/2/angular-logo-png_seeklogo-331629.png" alt="C#" height="50">&nbsp;&nbsp;
+<img src="https://logosandtypes.com/wp-content/uploads/2020/07/microsoft-net.svg" alt="JavaScript" height="50">&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/960px-Bootstrap_logo.svg.png" alt="Python" height="50">&nbsp;&nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9FZGcOId8e2tvMiw57wbiDRBO0luIyp2atw&s" alt="Python" height="50">&nbsp;&nbsp;
+
 
 ### ☁️ Infra, DevOps & DB
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+<img src="https://www.theprovatogroup.com/wp-content/uploads/2020/01/devops.png" alt="C#" height="50">&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/960px-Amazon_Web_Services_Logo.svg.png" alt="JavaScript" height="50">&nbsp;&nbsp;
+<img src="https://brandlogos.net/wp-content/uploads/2025/10/docker_mark-logo_brandlogos.net_yetav.png" alt="Python" height="50">&nbsp;&nbsp;
+<img src="https://img.freepik.com/free-vector/databases-set-three_78370-6669.jpg?semt=ais_hybrid&w=740&q=80" alt="Python" height="50">&nbsp;&nbsp;
 
 ### 🧩 Architecture & Patterns
 `SOLID` · `DDD` · `Clean Code` · `MVC` · `Microservices` · `Repository` · `Unit of Work`
