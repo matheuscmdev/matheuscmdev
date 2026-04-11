@@ -20,7 +20,7 @@ Fullstack Software Engineer from São Paulo, Brazil, focused on building robust 
 <img src="https://www.theprovatogroup.com/wp-content/uploads/2020/01/devops.png" alt="C#" height="50">&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/960px-Amazon_Web_Services_Logo.svg.png" alt="JavaScript" height="50">&nbsp;&nbsp;
 <img src="https://brandlogos.net/wp-content/uploads/2025/10/docker_mark-logo_brandlogos.net_yetav.png" alt="Python" height="50">&nbsp;&nbsp;
-<img src="https://img.freepik.com/free-vector/databases-set-three_78370-6669.jpg?semt=ais_hybrid&w=740&q=80" alt="Python" height="50">&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png?_=20210130181641" alt="Python" height="50">&nbsp;&nbsp;
 
 ### 🧩 Architecture & Patterns
 `SOLID` · `DDD` · `Clean Code` · `MVC` · `Microservices` · `Repository` · `Unit of Work`
